@@ -1,0 +1,74 @@
+[
+    {
+        "display_name": "Dashboard",
+        "route": "/",
+        "icon": "bx bx-category-alt"
+    },
+    {
+        "display_name": "Customers",
+        "route": "/customers",
+        "icon": "bx bx-user-pin"
+    },
+    {
+        "display_name": "Add Products",
+        "route": "/addproduct",
+        "icon": "bx bx-package"
+    },
+    {
+        "display_name": "Remove Products",
+        "route": "/removeproduct",
+        "icon": "bx bx-package"
+    },
+    {
+        "display_name": "Update Products",
+        "route": "/updateproduct",
+        "icon": "bx bx-package"
+    },          
+    {
+        "display_name": "Product Catalog",
+        "route": "/productcatalog",
+        "icon": "bx bx-package"
+    },    
+    {
+        "display_name": "Bookings",
+        "route": "/booking",
+        "icon": "bx bx-book"
+    },
+    {
+        "display_name": "Rent Product",
+        "route": "/rentproduct",
+        "icon": "bx bx-cart"
+    },
+    {
+        "display_name": "Process Payment",
+        "route": "/processpayment",
+        "icon": "bx bx-money"
+    },
+    {
+        "display_name": "Launch Complaint",
+        "route": "/launchcomplaint",
+        "icon": "bx bx-label"
+    },    
+    {
+        "display_name": "View Complain",
+        "route": "/viewcomplaint",
+        "icon": "bx bx-list-ol"
+    },
+      {
+        "display_name": "returns",
+        "route": "/returns",
+        "icon": "bx bx-arrow-back"
+    },
+
+    {
+        "display_name": "settings",
+        "route": "/settings",
+        "icon": "bx bx-cog"
+    }
+    ,
+    {
+        "display_name": "Log Out",
+        "route": "/settings",
+        "icon": "bx bx-log-out-circle bx-rotate-180"
+    }
+]

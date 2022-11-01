@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.parent_div{
+    width: 100vw;
+    height: 100vh;
+    position: relative;
+}
+
+.child_div {
+ 
+    width: 60vw;
+    height:60vh;
+    position: absolute;
+    left: 70%;
+    top:  50%;
+    transform: translate(-50%,-50%);
+
+}

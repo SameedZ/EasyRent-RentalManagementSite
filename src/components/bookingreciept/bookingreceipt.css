@@ -1,0 +1,69 @@
+#invoice-POS{
+    box-shadow: 0 0 1in -0.25in rgba(0, 0, 0, 0.5);
+    padding:4mm;
+    margin: 0 auto;
+    width: 200mm;
+    background: #FFF;
+}   
+    
+
+  p{
+    font-size: .8em;
+    color: #666;
+    line-height: 1.2em;
+  }
+   
+  #top, #mid,#bot{ /* Targets all id with 'col-' */
+    border-bottom: 1px solid #EEE;
+  }
+  
+  #top{min-height: 100px;}
+  #mid{min-height: 80px;} 
+  #bot{ min-height: 50px;}
+  
+  #top .logo{
+   
+      height: 60px;
+      width: 60px;
+      background-size: 60px 60px;
+  }
+  .clientlogo{
+    float: left;
+      height: 60px;
+      width: 60px;
+      background-size: 60px 60px;
+    border-radius: 50px;
+  }
+  .info{
+    display: block;
+   
+    margin-left: 0;
+  }
+  .title{
+    float: right;
+  }
+  .title p{text-align: right;} 
+  table{
+    width: 100%;
+    border-collapse: collapse;
+  }
+  td{
+ 
+  }
+  .tabletitle{
+    
+    font-size: .5em;
+    background: #EEE;
+  }
+  .service{border-bottom: 1px solid #EEE;}
+  .item{width: 24mm;}
+  .itemtext{font-size: .8em;}
+  
+  #legalcopy{
+    margin-top: 5mm;
+  }
+  
+    
+    
+
+
